@@ -1,0 +1,7 @@
+deepface
+imgbeddings
+fastapi
+uvicorn[standard]
+python-multipart
+cmake
+dlib
